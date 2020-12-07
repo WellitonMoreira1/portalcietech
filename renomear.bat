@@ -1,0 +1,2 @@
+ren *.html *.php
+pause
